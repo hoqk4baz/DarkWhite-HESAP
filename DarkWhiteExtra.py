@@ -161,7 +161,7 @@ _  /_/ // /_/ /_  /   _  ,<
     			mail = str(data[8])
     			print(htmlisim,"Eposta Şifre: "+mail)
     	print("\nMenüye dönmek için 'enter' tuşuna basınız..")
-    	
+    	input()
     elif menu == 6:
         system("cls||clear")
         print("Çıkış yapılıyor...")
